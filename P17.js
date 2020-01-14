@@ -107,4 +107,4 @@ function numberLetterCounts(limit) {
   // Good luck!
 }
 
-numberLetterCounts(1000);
+console.log(numberLetterCounts(5));
